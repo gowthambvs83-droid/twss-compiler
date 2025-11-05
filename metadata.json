@@ -1,0 +1,5 @@
+{
+  "name": "AI Code Compiler",
+  "description": "A web-based notebook to write and simulate the execution of Python and C++ code using the Gemini API. It can handle text output, errors, and even render plots from Python's matplotlib/seaborn libraries.",
+  "requestFramePermissions": []
+}
